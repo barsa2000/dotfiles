@@ -1,0 +1,30 @@
+[profiles]
+list=['2b7c4080-0ddd-46c5-8f23-563fd3ba789d']
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+dim-transparency-percent=0
+foreground-color='#F8F8F2'
+visible-name='Predefinito'
+palette=['#2E2E34343636', '#CC0000', '#4D9A05', '#C3A000', '#3464A3', '#754F7B', '#05979A', '#D3D6CF', '#545652', '#EF2828', '#89E234', '#FBE84F', '#729ECF', '#AC7EA8', '#34E2E2', '#EDEDEB']
+bold-is-bright=true
+badge-color-set=false
+cursor-shape='block'
+cursor-colors-set=false
+highlight-colors-set=false
+use-system-font=true
+bold-color-set=false
+font='DejaVu Sans Mono for Powerline 10'
+use-theme-colors=true
+draw-margin=60
+background-color='#272822'
+background-transparency-percent=13
+badge-text=''
+
+[/]
+terminal-title-style='none'
+prompt-on-close-process=false
+theme-variant='dark'
+enable-wide-handle=false
+app-title='${appName}: ${sessionName}'
+prompt-on-delete-profile=true
+terminal-title-show-when-single=true
